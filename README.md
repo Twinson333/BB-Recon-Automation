@@ -68,7 +68,7 @@ python3 bb-recon.py -d example.com
 python3 bb-recon.py -d example.com --ports --nuclei --screenshots
 ```
 
-### GUI
+### GUI (recommended)
 ``` bash
 python3 bb_recon_interface.py
 ```
