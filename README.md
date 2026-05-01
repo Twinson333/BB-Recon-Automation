@@ -1,4 +1,4 @@
-# BB-Recon --- Bug Bounty Recon Orchestrator
+# BB-Recon - Bug Bounty Recon Orchestrator
 
 An advanced **bug bounty reconnaissance automation tool** designed to
 streamline asset discovery, probing, and vulnerability scanning at
@@ -96,5 +96,5 @@ This tool is intended for authorized security testing only.
 
 ## 👤 Author
 
-** Antony Esthak Twinson (Cyber Tamarin)**\
+**Antony Esthak Twinson (Cyber Tamarin)**\
 Bug Bounty Hunter \| Penetration Tester
