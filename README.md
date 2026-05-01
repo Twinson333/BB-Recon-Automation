@@ -78,12 +78,36 @@ python3 bb_recon_interface.py
 
 ``` text
 output/
-├── subdomains.txt
-├── live_hosts.json
-├── ports.txt
+├── logs
 ├── nuclei_results.txt
-├── endpoints.txt
-└── screenshots/
+├── out
+│   ├── admin_urls.txt
+│   ├── api_endpoints.txt
+│   ├── auth_urls.txt
+│   ├── graphql_endpoints.txt
+│   ├── interesting_files.txt
+│   ├── javascript_files.txt
+│   ├── json_urls.txt
+│   ├── live_metadata.txt
+│   ├── live_urls.txt
+│   ├── nuclei_high_signal_targets.txt
+│   ├── nuclei_targets.txt
+│   ├── parameterized_urls_clean.txt
+│   ├── params_urls.txt
+│   ├── redirect_candidates.txt
+│   ├── unique_parameters.txt
+│   └── upload_urls.txt
+├── raw
+│   ├── all_urls.txt
+│   ├── archive_urls.txt
+│   ├── arjun_output.txt
+│   ├── crawl_urls.txt
+│   ├── open_ports.txt
+│   ├── resolved_subdomains.txt
+│   └── subdomains.txt
+├── summary.json
+├── summary.md
+└── tmp
 ```
 
 ------------------------------------------------------------------------
